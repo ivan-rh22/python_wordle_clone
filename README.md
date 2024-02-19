@@ -1,2 +1,2 @@
-# py_finalProject
-Final Project for Python class. A spinoff of the popular game WORDLE
+# python_wordle_clone
+A simple spinoff of the popular game WORDLE using Python.
